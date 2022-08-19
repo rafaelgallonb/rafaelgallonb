@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 - 🔭 Estou atualmente trabalhando no projeto 
 
-- 🌱 Atualmente estou aprendendo **Tableau**
-
-- 👨‍💻 Você pode ver meus projetos também no site
+- 🌱 Em constante desenvolvimento
 
 - 📝 Eu escrevo as vezes no Medium [https://medium.com/@rafael.gallonb](https://medium.com/@rafael.gallonb)
 
